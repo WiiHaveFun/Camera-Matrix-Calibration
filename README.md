@@ -20,5 +20,5 @@ By default the program will take 20 images, once every 5 seconds. Once it is don
 
 By defualt, the checkerboard you will use is a 9 by 6 board. You will want to print it and place it on a flat surface. It is best to put it on a flat box to make it moveable.
 
-Here's a helpful link
+Here's a helpful link:
 https://docs.opencv.org/2.4/doc/tutorials/calib3d/camera_calibration/camera_calibration.html
