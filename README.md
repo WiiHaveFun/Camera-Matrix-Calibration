@@ -22,3 +22,6 @@ By defualt, the checkerboard you will use is a 9 by 6 board. You will want to pr
 
 Here's a helpful link:
 https://docs.opencv.org/2.4/doc/tutorials/calib3d/camera_calibration/camera_calibration.html
+
+And a link to a checkerboard you can print:
+https://docs.opencv.org/2.4/_downloads/pattern.png
