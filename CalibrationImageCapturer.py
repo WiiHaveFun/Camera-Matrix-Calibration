@@ -4,9 +4,6 @@
 import numpy as np
 import cv2
 import glob
-import matplotlib
-matplotlib.use('Qt5agg')
-import matplotlib.pyplot as plt
 from pathlib import Path
 import time
 
