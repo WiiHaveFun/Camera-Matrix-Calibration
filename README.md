@@ -25,3 +25,5 @@ https://docs.opencv.org/2.4/doc/tutorials/calib3d/camera_calibration/camera_cali
 
 And a link to a checkerboard you can print:
 https://docs.opencv.org/2.4/_downloads/pattern.png
+
+It is assumed that the checkerboard squares are 1 inch by 1 inch.
